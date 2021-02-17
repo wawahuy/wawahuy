@@ -7,10 +7,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=wawahuy&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 - 🚢 Open source contributor
-- 🚀 Kubernetes, .NET Core and Next.js
-- 👑 HotChocolate, MassTransit and Quartz
+- 🚀 Jenkin, Node.js, React
 - 🤝 Always open for cooperation
-- ❤️ Cats 😸, whales 🐳 and guitars 🎸
+- ❤️ Cats 😸
 
 <br>
 
