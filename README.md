@@ -10,7 +10,7 @@
 - 🚀 Jenkin, Node.js, React, C++
 - 🤝 Always open for cooperation
 - ❤️ Cats 😸
-- Learning: ARMv5 Assembly, Dalvik Bytecode
+- Learning: x86 Assembly
 
 <br>
 
