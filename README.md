@@ -10,7 +10,7 @@
 - 🚀 Jenkin, Node.js, React, C++
 - 🤝 Always open for cooperation
 - ❤️ Cats 😸
-- Learning: x86 Assembly, Graphics
+- Learning: WebGL, Graphics
 
 <br>
 
