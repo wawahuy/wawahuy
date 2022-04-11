@@ -5,7 +5,7 @@
 
 ## 𝙼𝚢 𝚜𝚔𝚒𝚕𝚕
 
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="45px" alt="Nyan_Cat_animated">
+[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)[![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)[![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)[![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)<img src="https://media2.giphy.com/media/12kSpsUT4J8Dzq/giphy.gif?cid=ecf05e47k81d32s2o0d2j8kkzw4ej5eqvet7zvoo7d2srogp&rid=giphy.gif&ct=s" width="45px" alt="Nyan_Cat_animated">
 
 [![wakatime](https://wakatime.com/badge/user/7dfffda2-e19b-4623-ac69-1e03a88afab8.svg)](https://wakatime.com/@wawahuy)
 <p align=center>
