@@ -17,9 +17,5 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=heydayle&theme=dark&hide_border=true" width = 400>
 </div>
 <h3 align=center>        
-<img src="https://visitor-badge.glitch.me/badge?page_id=wawahuy" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=wawahuy.wawahuy" />
 </h3>
-
-
-
-1
