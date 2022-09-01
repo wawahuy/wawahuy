@@ -8,7 +8,7 @@
 [![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 <br/>
 <div align="center">
-  [![Non Badge](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)](#)
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="hi" />
 </div>
 
 <div align="center">
