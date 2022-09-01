@@ -5,7 +5,9 @@
 
 ## 𝙼𝚢 𝚜𝚔𝚒𝚕𝚕
 
-[![NoSkill Badge](https://img.shields.io/badge/No%20Skill-oo%2B-red)](#)
+[![NoSkill Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
+<div style="width:100%"><div style="height:0;padding-bottom:177.63157894736844%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/kLUe6QvpKiM6D9zjnS/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+<br>
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=wawahuy&show_icons=true&theme=light" width = 400>
