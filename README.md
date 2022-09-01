@@ -5,7 +5,7 @@
 
 ## 𝙼𝚢 𝚜𝚔𝚒𝚕𝚕
 
-[![NoSkill Badge](https://img.shields.io/badge/No%20Skill-%20-red)](#)
+[![NoSkill Badge](https://img.shields.io/badge/No%20Skill-oo%2B-red)](#)
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=wawahuy&show_icons=true&theme=light" width = 400>
