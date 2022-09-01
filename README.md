@@ -8,15 +8,12 @@
 [![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 <br/>
 <div align="center">
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="hi" />
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="hi" style="border-radius: 10px"/>
 </div>
 
 <div align="center">
 <img src = "https://github-readme-stats.vercel.app/api?username=wawahuy&show_icons=true&theme=light" width = 400>
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=wawahuy&theme=light&hide_border=true" width = 400>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wawahuy&layout=compact" />
 </div>
 <h3 align=center>        
 <img src="https://visitor-badge.glitch.me/badge?page_id=wawahuy.wawahuy" />
