@@ -2,6 +2,8 @@
 
 ## Nguyen Gia Huy!
 <p>C𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚊 ... 𝚏𝚛𝚘𝚖 𝚅𝚒𝚎𝚝𝚗𝚊𝚖 <img width="35" src="https://1.bp.blogspot.com/-PB1l0aJwXmA/YEpAVjiVM1I/AAAAAAAA5JI/flVFLSBlMOAAH0WvN-oKZmJRRixnouqvQCLcBGAsYHQ/s0/Flag_of_Vietnam.gif"/></p>
+<br/>
+Info: 5da8ce83e48445ffdd60f8f4e027b23d
 
 ## 𝙼𝚢 𝚜𝚔𝚒𝚕𝚕
 
