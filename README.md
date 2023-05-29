@@ -9,8 +9,8 @@
 - react-horizontal-vertical [![Available on NPM](https://img.shields.io/npm/v/react-horizontal-vertical.svg)](https://npmjs.com/package/react-horizontal-vertical)  [![Try Mockttp on RunKit](https://badge.runkitcdn.com/react-horizontal-vertical.svg)](https://npm.runkit.com/react-horizontal-vertical)
 
 ## Web
-- https://huylearn.vercelapp.com
-- https://huytool.vercelapp.com
+- https://huylearn.vercel.app/
+- https://huytool.vercel.app/
 
 ## Mod
 - Bida Zingplay: https://www.youtube.com/watch?v=GA23nKcqyI0
