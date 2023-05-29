@@ -15,7 +15,7 @@
 
 ## Mod
 - Bida Zingplay: https://www.youtube.com/watch?v=JiaR3OwRF2A
-- Ziga: https://www.youtube.com/watch?v=GA23nKcqyI0
+- Ziga: https://www.youtube.com/watch?v=Dec5bKYWv8Q
 - CoD MW3
 
 ## Game
