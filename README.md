@@ -10,11 +10,11 @@
 - yuh-android-library: [![](https://jitpack.io/v/wawahuy/Yuh-Android-Library.svg)](https://jitpack.io/#wawahuy/Yuh-Android-Library)
 
 ## Web
-- Simulator Step: https://huylearn.vercel.app/
-- Tool/Proxy: https://huytool.vercel.app/
+- Simulator Step: [![Beta Badge](https://img.shields.io/badge/Beta-red)](#) https://huylearn.vercel.app/
+- Tool/Proxy [![Die Badge](https://img.shields.io/badge/Hidden-red)](#): https://huytool.vercel.app/
 
 ## Mod
-- Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk
+- Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk [![Beta Badge](https://img.shields.io/badge/Beta-red)](#)
 - Ziga: https://www.youtube.com/watch?v=Dec5bKYWv8Q
 - CoD MW3
 
