@@ -14,7 +14,7 @@
 - Tool/Proxy: https://huytool.vercel.app/
 
 ## Mod
-- Bida Zingplay: https://www.youtube.com/watch?v=JiaR3OwRF2A
+- Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk
 - Ziga: https://www.youtube.com/watch?v=Dec5bKYWv8Q
 - CoD MW3
 
