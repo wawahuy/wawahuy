@@ -1,7 +1,7 @@
 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 
 
 ## Nguyen Gia Huy! 🐱
-I'm a passionate programmer who loves building physics simulation libraries, creating graphics, and reverse engineering games. Additionally, I excel in full-stack web development.
+I'm a passionate programmer who loves building physics/graphics simulation libraries and reverse engineering games. Additionally, I excel in full-stack web development.
 [![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 
 ## Lib
