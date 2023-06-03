@@ -11,7 +11,6 @@ I'm a passionate programmer who loves building physics/graphics simulation libra
 
 ## Web
 - Simulator Step: https://huylearn.vercel.app/  [![Beta Badge](https://img.shields.io/badge/Beta-red)](#)
-- Tool/Proxy: https://huytool.vercel.app/ [![Die Badge](https://img.shields.io/badge/Die-red)](#)
 
 ## Mod
 - Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk [![Beta Badge](https://img.shields.io/badge/Beta-red)](#)
