@@ -1,7 +1,7 @@
 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 
 
 ## Nguyen Gia Huy! 🐱
-I'm a passionate programmer who loves reverse engineering games. Additionally, I excel in full-stack web development.
+I am passionate about reverse engineering games and web developer, where Linux is my daily life.
 [![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 
 ## Lib
@@ -17,6 +17,7 @@ I'm a passionate programmer who loves reverse engineering games. Additionally, I
 - Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk [![Beta Badge](https://img.shields.io/badge/Beta-red)](#)
 - Ziga: https://www.youtube.com/watch?v=Dec5bKYWv8Q
 - CoD MW3
+- Arena of Valor (Buy via https://t.me/wawahuy)
 
 ## Game
 - Ycn Answer: https://www.youtube.com/watch?v=R4b_FP4dLYs
