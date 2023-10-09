@@ -1,7 +1,7 @@
 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 
 
 ## Nguyen Gia Huy! 🐱
-I am passionate about reverse engineering games and web developer, where Linux is my daily life.
+I am passionate about reverse engineering games and web developer, where Linux is my life.
 [![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 
 ## Lib
