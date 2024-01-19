@@ -17,7 +17,10 @@ I am passionate about reverse engineering games and web developer, where Linux i
 - Bida Zingplay: https://www.youtube.com/watch?v=UOQKgv5VWyk [![Beta Badge](https://img.shields.io/badge/Beta-red)](#)
 - Ziga: https://www.youtube.com/watch?v=Dec5bKYWv8Q
 - CoD MW3
-- Arena of Valor (Buy via https://t.me/wawahuy)
+  
+** Under (Buy via https://t.me/wawahuy) **
+- Arena of Valor ($10/month)
+- Piggy Boom ($4/month)
 
 ## Game
 - Ycn Answer: https://www.youtube.com/watch?v=R4b_FP4dLYs
