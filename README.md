@@ -2,7 +2,6 @@
 
 ## Nguyen Gia Huy! 🐱
 I am passionate about reverse engineering games and web developer, where Linux is my life.
-[![WatchMoview Badge](https://img.shields.io/badge/Watch%20Movie-oo%2B-red)](#)
 
 ## Lib
 - pms-proxy [![Available on NPM](https://img.shields.io/npm/v/pms-proxy.svg)](https://npmjs.com/package/pms-proxy)  [![Try Mockttp on RunKit](https://badge.runkitcdn.com/pms-proxy.svg)](https://npm.runkit.com/pms-proxy)
