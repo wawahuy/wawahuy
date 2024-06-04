@@ -1,7 +1,7 @@
 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙼𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 
 
 ## Nguyen Gia Huy! 🐱
-I am passionate about reverse engineering games and web developer, where Linux is my life.
+I am passionate about reverse engineering games and web developer.
 
 ## Lib
 - pms-proxy [![Available on NPM](https://img.shields.io/npm/v/pms-proxy.svg)](https://npmjs.com/package/pms-proxy)  [![Try Mockttp on RunKit](https://badge.runkitcdn.com/pms-proxy.svg)](https://npm.runkit.com/pms-proxy)
